@@ -24,16 +24,8 @@ census-income-prediction/
 ├── .gitignore
 ├── notebooks/
 │   └── census_income_pipeline.ipynb   # Pipeline end-to-end: EDA → preprocessing → FE → modeling → evaluasi → tuning
-├── reports/
-│   ├── Technical_Report.pdf           # Laporan teknis lengkap
-│   ├── Laporan_Soal_Bonus.pdf         # Analisis tambahan (kelompok pekerjaan, pendidikan, data quality)
-│   └── figures/                       # Seluruh visualisasi (EDA, evaluasi, feature importance, dst.)
 ├── submissions/
-│   ├── submission_v1.csv              # Submission awal (F1-macro 0,80)
 │   └── submission_v2_final.csv        # Submission final setelah tuning (F1-macro 0,82)
-├── docs/
-│   └── Lembar_Deklarasi_Penggunaan_AI.pdf
-└── data/                              # Dataset (tidak disertakan di repo, lihat bagian Data di bawah)
 ```
 
 ## Pipeline
