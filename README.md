@@ -2,7 +2,7 @@
 
 Prediksi kategori pendapatan individu (`<=50K` atau `>50K` USD/tahun) menggunakan Census Income (KDD) Dataset. Proyek ini dikerjakan sebagai bagian dari seleksi **Study Group AI Engineering — Laboratorium Big Data, Universitas Telkom**.
 
-**Hasil akhir: peringkat #2 di leaderboard**, dengan F1-macro 0,82 pada validation set (naik dari 0,80 setelah hyperparameter tuning dan threshold tuning yang divalidasi dengan 5-fold cross-validation).
+dengan F1-macro 0,82 pada validation set (naik dari 0,80 setelah hyperparameter tuning dan threshold tuning yang divalidasi dengan 5-fold cross-validation).
 
 ## Ringkasan Proyek
 
