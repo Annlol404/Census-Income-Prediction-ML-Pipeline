@@ -24,8 +24,7 @@ census-income-prediction/
 ├── .gitignore
 ├── notebooks/
 │   └── census_income_pipeline.ipynb   # Pipeline end-to-end: EDA → preprocessing → FE → modeling → evaluasi → tuning
-├── submissions/
-│   └── submission_v2_final.csv        # Submission final setelah tuning (F1-macro 0,82)
+├── submissionsFinal.cvs     # Submission final setelah tuning (F1-macro 0,82)
 ```
 
 ## Pipeline
